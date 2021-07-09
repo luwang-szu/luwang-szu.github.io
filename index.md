@@ -1,4 +1,4 @@
-## Lu Wang (王璐)
+## Welcome to Lu Wang's Homepage
 
 You can use the [editor on GitHub](https://github.com/luwang-szu/luwang-szu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
