@@ -164,6 +164,87 @@ input, select, textarea {
 	p, ul, ol, dl {
 		margin-bottom: 1em;
 	}
+/* INFO */
+    .INFO{
+		margin: 0 0 0 0;
+		
+	}
+	.name {
+		font-size:large;
+		color: #b93653;
+		margin: 0 0 0 0;
+		padding: auto;
+	}
+	.pro {
+		font-size: large;
+		color: #f58ca3;
+		margin: 9px 0 0 0;
+	}
+	.college{
+		font-size: medium;
+		color: #aaa;
+		margin: 10px 0 0 0;
+		padding: 0 0 0 0 ;
+	}
+	.Office{
+		font-size: small;
+		margin: 0 0 0 0;
+		padding: 0 0 0 0 ;
+	}
+	.university{
+		font-size: medium;
+		margin: 0 0 0 0;
+		padding: 0 0 0 0 ;
+	}
+	.Phone{
+		font-size: small;
+		margin: 20px 0 0 0;
+	}
+	.Email{
+		font-size: small;
+		margin: 0 0 0 0;
+	}
+	.biography{
+		font-size: medium;
+	}
+	.flower{
+		/* float: right; */
+		/* width: 50%; */
+		/* height: 5%; */
+		width: 49%;
+		height: 175px;
+	}
+	.flower_r{
+		position: relative; left:400px ;top:45px;
+	}
+	.flower_n{
+		position: relative; left:290px ;top:45px;
+	}
+	.flower_p{
+		position: relative; left:410px ;top:45px;
+	}
+	.flower_h{
+		position: relative; left:470px ;top:45px;
+	}
+	.flower_s{
+		position: relative; left:450px ;top:45px;
+	}
+	.paper{
+		color: #d4237a;
+	}
+	.authorName{
+		color: red;
+	}
+	.header_second{
+		margin-bottom: 20px;
+	}
+	.header_div .flower{
+		display: inline-block;
+        vertical-align: right;
+	}
+	.header_div .infos{
+		display: inline-block;
+	}
 
 /* Row */
 
