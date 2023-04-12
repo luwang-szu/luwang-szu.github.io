@@ -18,6 +18,11 @@ main:
   - title: "Publications"
     url: "/#publications"
 
+  - title: "Teaching"
+    url: "/#teaching"
+
+  - title: "Grants"
+    url: "/#grants"
 
   # - title: "Educations"
   #   url: "/#educations"

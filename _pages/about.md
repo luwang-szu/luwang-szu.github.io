@@ -127,6 +127,11 @@ My research interest mainly focuses on the design and implementation of future h
 1. <strong> <font color="#3286AE">[TPDS]</font></strong> __L. Wang__, K. Wu and M. Hamdi*, “Attached-RTS: Eliminating an Exposed Terminal Problem in Wireless Networks”, IEEE Transactions on Parallel and Distributed Systems, Vol. 24, No. 7, pp. 1289-1299, July 2012.  
 1. <strong> <font color="#3286AE">[TMC]</font></strong> K. Wu, H. Li, __L. Wang__, Y. Yi, Y. Liu, D. Chen, X. Luo, Q. Zhang and L. M. Ni*, “hJam: Attachment Transmission in WLANs”, in IEEE Transactions on Mobile Computing, Vol. 12, No. 12, pp. 2334-2345, September 2012
 
+# Teaching
+No content
+
+# Grants
+No content
 <!-- # Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
