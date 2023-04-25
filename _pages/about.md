@@ -26,11 +26,18 @@ Internationally, Lu Wang has also received best paper awards including Internati
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-* <strong> <font color="#8273AD">[Paper]</font></strong> 2022, our paper "LiSee: A Headphone that Provides All-day Assistance for Blind and Low-vision Users to Reach Surrounding Objects" has been published in ACM international joint conference on Pervasive and Ubiquitous Computing.
-* <strong> <font color="#8273AD">[Paper]</font></strong> 2021/07, our paper "Lili: Liquid Quality Monitoring with Light Signal" has been accepted by The 27th Annual International Conference on Mobile Computing and Networking (MobiCom '21), 2021.
-* <strong> <font color="#8273AD">[Paper]</font></strong> 2021/06, our paper “Power Saving and Secure Text Input for Commodity Smart Watches” has been published in IEEE Transactions on Mobile Computing.
-* <strong> <font color="#8273AD">[Paper]</font></strong> 2021/05, 我们的论文“面向云网融合的细粒度多接入边缘计算架构” 被《计算机研究与发展》接收
-* <strong> <font color="#8273AD">[Paper]</font></strong> 2021/03, I am serving as the Technical Program Committee Chair of EAI ICECI 2021. Please consider submitting your papers!
+Beverage Deterioration Monitoring Based on Surface Tension Dynamics and Absorption Spectrum Analysis
+<strong> <font color="#8273AD">[Paper]</font></strong> 2023, our paper "Beverage Deterioration Monitoring Based on Surface Tension Dynamics and Absorption Spectrum Analysis" is to be appear in IEEE Transactions on Mobile Computing (TMC)
+
+<strong> <font color="#8273AD">[Paper]</font></strong> 2022, our paper "LiSee: A Headphone that Provides All-day Assistance for Blind and Low-vision Users to Reach Surrounding Objects" has been published in ACM international joint conference on Pervasive and Ubiquitous Computing.
+
+<strong> <font color="#8273AD">[Paper]</font></strong> 2021/07, our paper "Lili: Liquid Quality Monitoring with Light Signal" has been accepted by The 27th Annual International Conference on Mobile Computing and Networking (MobiCom '21), 2021.
+
+<strong> <font color="#8273AD">[Paper]</font></strong> 2021/06, our paper “Power Saving and Secure Text Input for Commodity Smart Watches” has been published in IEEE Transactions on Mobile Computing.
+
+<strong> <font color="#8273AD">[Paper]</font></strong> 2021/05, 我们的论文“面向云网融合的细粒度多接入边缘计算架构” 被《计算机研究与发展》接收
+
+<strong> <font color="#8273AD">[Paper]</font></strong> 2021/03, I am serving as the Technical Program Committee Chair of EAI ICECI 2021. Please consider submitting your papers!
 
 # RESEARCH
 * Next-generation Wireless Networks
