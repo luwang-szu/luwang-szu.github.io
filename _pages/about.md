@@ -188,7 +188,6 @@ __L. Wang__, K. Wu and M. Hamdi. Introduction to Attachment Transmission in Wire
 ### 《Computer Networks》: UG course, Spring semester
 
 **Introduction:** This course teaches the concepts and general principles of the underlying networks of the Internet. Learn about the structure and components of computer networks, packet switching, and layer architectures as well as a variety of applications.  
-
   > Prerequisites: 《Introduction to Computers》《Computer Systems》
   > 
   > Textbook: 《Computer Network and Next-generation Internet》(Laizhong Cui)
@@ -198,7 +197,6 @@ __L. Wang__, K. Wu and M. Hamdi. Introduction to Attachment Transmission in Wire
 ### 《Discrete Mathematics》: UG course, Fall semester
 
 **Introduction:** This course mainly introduces the basic knowledge of discrete mathematics, including mathematical logic, set theory, algebraic structures, graph theory, combinatorial analysis.
-
 > Prerequisites: 《College Algebra》《Precalculus》《Calculus》
 > 
 > Textbook: 《Discrete Mathematics》(Suyun Geng et al)
