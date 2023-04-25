@@ -26,7 +26,6 @@ Internationally, Lu Wang has also received best paper awards including Internati
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-Beverage Deterioration Monitoring Based on Surface Tension Dynamics and Absorption Spectrum Analysis
 <strong> <font color="#8273AD">[Paper]</font></strong> 2023, our paper "Beverage Deterioration Monitoring Based on Surface Tension Dynamics and Absorption Spectrum Analysis" is to be appear in IEEE Transactions on Mobile Computing (TMC)
 
 <strong> <font color="#8273AD">[Paper]</font></strong> 2022, our paper "LiSee: A Headphone that Provides All-day Assistance for Blind and Low-vision Users to Reach Surrounding Objects" has been published in ACM international joint conference on Pervasive and Ubiquitous Computing.
