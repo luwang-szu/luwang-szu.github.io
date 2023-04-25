@@ -23,13 +23,6 @@ She has been recognized as Top-notch Young Personnel of Guangdong Special Suppor
 
 Internationally, Lu Wang has also received best paper awards including International Conference on Sensing, Communication and Networking (IEEE SECON 2018), IEEE Global Communications Conference (IEEE GLOBECOM 2012), IEEE 18th International Conference on Parallel and Distributed Systems (IEEE ICPADS 2012).
 
-# Research Interest
-* Next-generation Wireless Networks
-* Internet of Things (IoT)
-* Mobile Computing and Sensing
-
-My research interest mainly focuses on the design and implementation of future high speed wireless networks, spanning from novel physical layer to algorithm design to the system architecture. I am also interested in Internet of Things (IoT) and Mobile Computing and Sensing, and leveraging machine learning and data analytics related techniques to deal with networking and sensing related problems.
-
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -39,27 +32,14 @@ My research interest mainly focuses on the design and implementation of future h
 * <strong> <font color="#8273AD">[Paper]</font></strong> 2021/05, 我们的论文“面向云网融合的细粒度多接入边缘计算架构” 被《计算机研究与发展》接收
 * <strong> <font color="#8273AD">[Paper]</font></strong> 2021/03, I am serving as the Technical Program Committee Chair of EAI ICECI 2021. Please consider submitting your papers!
 
-# Honors and Awards
-- ACM SIGAPP China Rising Star, 2020.08
-- 深圳大学“荔园优青”，2019.01
-- “广东特支计划”科技创新青年拔尖人才，2018.07
-- IEEE SECON Best Paper Award, 2018.06
-- 广东省科学技术奖励 (科学技术进步)，一等奖，2018.03
-- IEEE MSN Best Student Paper Award, 2016.12
-- IEEE GlobeCom Best of Globecom’14, 2014.12
-- ACM-HK Prof. Francis Chin Research Award, 2013.07
-- IEEE GlobeCom Best Paper Award, 2012.12
-- IEEE ICPADS Best Paper Award, 2012.12
+# RESEARCH
+* Next-generation Wireless Networks
+* Internet of Things (IoT)
+* Mobile Computing and Sensing
 
-# Professional Services
-- TPC Chair, EAI ICECI, 2021
-- workshop chair, IEEE ICPADS 2017
-- Lead Editor, Wireless Communications and Mobile Computing
-- Associate Editor, ICSES Interdisciplinary Transactions on Cloud Computing, IoT, and Big Data
-- Guest Editor, IEEE IoT Journal
-- Guest Editor, Peer-to-Peer Networking and Applications journal
+My research interest mainly focuses on the design and implementation of future high speed wireless networks, spanning from novel physical layer to algorithm design to the system architecture. I am also interested in Internet of Things (IoT) and Mobile Computing and Sensing, and leveraging machine learning and data analytics related techniques to deal with networking and sensing related problems.
 
-# Publications
+# PUBLICATION
 
 ## Books
 __L. Wang__, K. Wu and M. Hamdi. Introduction to Attachment Transmission in Wireless Networks, in SpringerBriefs in Computer Science Series, Springer London Limited, 2014.
@@ -184,7 +164,7 @@ __L. Wang__, K. Wu and M. Hamdi. Introduction to Attachment Transmission in Wire
 
 <strong> <font color="#3286AE">[TMC]</font></strong> K. Wu, H. Li, __L. Wang__, Y. Yi, Y. Liu, D. Chen, X. Luo, Q. Zhang and L. M. Ni*, “hJam: Attachment Transmission in WLANs”, in IEEE Transactions on Mobile Computing, Vol. 12, No. 12, pp. 2334-2345, September 2012
 
-# Teaching
+# TEACHING
 ### 《Computer Networks》: UG course, Spring semester
 
 **Introduction:** This course teaches the concepts and general principles of the underlying networks of the Internet. Learn about the structure and components of computer networks, packet switching, and layer architectures as well as a variety of applications.  
@@ -203,8 +183,26 @@ __L. Wang__, K. Wu and M. Hamdi. Introduction to Attachment Transmission in Wire
 > 
 > Reference: 《Mathematics and Its ApplicationKenneth》(H. Reson  ，McGraw-Hill)
 
-# Grants
-No content
+# AWARD
+- ACM SIGAPP China Rising Star, 2020.08
+- 深圳大学“荔园优青”，2019.01
+- “广东特支计划”科技创新青年拔尖人才，2018.07
+- IEEE SECON Best Paper Award, 2018.06
+- 广东省科学技术奖励 (科学技术进步)，一等奖，2018.03
+- IEEE MSN Best Student Paper Award, 2016.12
+- IEEE GlobeCom Best of Globecom’14, 2014.12
+- ACM-HK Prof. Francis Chin Research Award, 2013.07
+- IEEE GlobeCom Best Paper Award, 2012.12
+- IEEE ICPADS Best Paper Award, 2012.12
+
+# SERVICE
+- TPC Chair, EAI ICECI, 2021
+- workshop chair, IEEE ICPADS 2017
+- Lead Editor, Wireless Communications and Mobile Computing
+- Associate Editor, ICSES Interdisciplinary Transactions on Cloud Computing, IoT, and Big Data
+- Guest Editor, IEEE IoT Journal
+- Guest Editor, Peer-to-Peer Networking and Applications journal
+
 
 <!-- # Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
