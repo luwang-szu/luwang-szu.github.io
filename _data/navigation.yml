@@ -5,24 +5,24 @@ main:
 
   - title: "Biography"
     url: "/#biography"
-
-  - title: "Research Interest"
-    url: "/#research-interest"
-
+    
   - title: "News"
     url: "/#news"
 
-  - title: "Honors and Awards"
-    url: "/#honors-and-awards"
-
-  - title: "Publications"
-    url: "/#publications"
-
-  - title: "Teaching"
+  - title: "RESEARCH"
+    url: "/#research"
+    
+  - title: "PUBLICATION"
+    url: "/#publication"
+    
+  - title: "TEACHING"
     url: "/#teaching"
 
-  - title: "Grants"
-    url: "/#grants"
+  - title: "AWARD"
+    url: "/#award"
+
+  - title: "SERVICE"
+    url: "/#service"
 
   # - title: "Educations"
   #   url: "/#educations"
