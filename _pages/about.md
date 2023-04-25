@@ -185,7 +185,25 @@ __L. Wang__, K. Wu and M. Hamdi. Introduction to Attachment Transmission in Wire
 <strong> <font color="#3286AE">[TMC]</font></strong> K. Wu, H. Li, __L. Wang__, Y. Yi, Y. Liu, D. Chen, X. Luo, Q. Zhang and L. M. Ni*, “hJam: Attachment Transmission in WLANs”, in IEEE Transactions on Mobile Computing, Vol. 12, No. 12, pp. 2334-2345, September 2012
 
 # Teaching
-No content
+### 《Computer Networks》: UG course, Spring semester
+
+**Introduction:** This course teaches the concepts and general principles of the underlying networks of the Internet. Learn about the structure and components of computer networks, packet switching, and layer architectures as well as a variety of applications.  
+
+  > Prerequisites: 《Introduction to Computers》《Computer Systems》
+  > 
+  > Textbook: 《Computer Network and Next-generation Internet》(Laizhong Cui)
+  > 
+  > Reference: 《Computer Networking: A Top-Down Approach》(Jim Kurose et al), 《Computer Networks》(Xiren Xie)
+
+### 《Discrete Mathematics》: UG course, Fall semester
+
+**Introduction:** This course mainly introduces the basic knowledge of discrete mathematics, including mathematical logic, set theory, algebraic structures, graph theory, combinatorial analysis.
+
+> Prerequisites: 《College Algebra》《Precalculus》《Calculus》
+> 
+> Textbook: 《Discrete Mathematics》(Suyun Geng et al)
+> 
+> Reference: 《Mathematics and Its ApplicationKenneth》(H. Reson  ，McGraw-Hill)
 
 # Grants
 No content
