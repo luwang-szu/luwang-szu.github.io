@@ -47,10 +47,10 @@ My research interest mainly focuses on the design and implementation of future h
 
 # PUBLICATION
 
-## Books
+## Book
 __L. Wang__, K. Wu and M. Hamdi. Introduction to Attachment Transmission in Wireless Networks, in SpringerBriefs in Computer Science Series, Springer London Limited, 2014.
 
-## Selected Conference Papers
+## Conference
 <strong> <font color="#738FBF">[UbiComp]</font></strong> K. Chen, Y. Huang, Y. Chen, H. Zhong, L. Lin, __L. Wang__(通信作者),  K. Wu, LiSee: A Headphone that Provides All-day Assistance for Blind and Low-vision Users to Reach Surrounding Objects. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 6(3), 1-30. 2022
 
 <strong> <font color="#738FBF">[SenSys]</font></strong> Aslan B. Wong , Dongliang Tu , ZiQi Huang , Xia Chen , __L. Wang__* , Kaishun Wu, Muscle-Mind: towards the Strength Training Monitoring via the Neuro-Muscular Connection Sensing, in SenSys '21: Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems, November 2021 Pages 371–372https://doi.org/10.1145/3485730.3492875.
@@ -113,7 +113,7 @@ __L. Wang__, K. Wu and M. Hamdi. Introduction to Attachment Transmission in Wire
 
 <strong> <font color="#738FBF">[ICPADS]</font></strong> __L. Wang__, K. Wu, M. Hamdi and L. M. Ni, “Attachment Learning for Multi-Channel Allocation in Cellular OFDMA Networks”, in the IEEE 17th International Conference on Parallel and Distributed Systems (IEEE ICPADS), 2011.
 
-## Selected Journal Papers
+## Journal
 <strong> <font color="#3286AE">[TWC]</font></strong> Du, Xiao, Ting Wang, Qiang Feng, Chenhui Ye, Tao Tao, __L. Wang__, Yuanming Shi, and Mingsong Chen. "Multi-agent Reinforcement Learning for Dynamic Resource Management in 6G in-X Subnetworks." In IEEE Transactions on Wireless Communications ,Volume: 22, Issue: 3，pp:1900-1914, MARCH 2023. 
 
 <strong> <font color="#3286AE">[TOSN]</font></strong> __L. Wang__, X. Q, R. Huang, K.Wu and Q. Zhang, Exploring Partially Overlapping Channels for Low Power Wide Area Networks, In ACM Transactions on Sensor Networks (TOSN), 2022
@@ -171,6 +171,7 @@ __L. Wang__, K. Wu and M. Hamdi. Introduction to Attachment Transmission in Wire
 <strong> <font color="#3286AE">[TMC]</font></strong> K. Wu, H. Li, __L. Wang__, Y. Yi, Y. Liu, D. Chen, X. Luo, Q. Zhang and L. M. Ni*, “hJam: Attachment Transmission in WLANs”, in IEEE Transactions on Mobile Computing, Vol. 12, No. 12, pp. 2334-2345, September 2012
 
 # TEACHING
+## Course
 ### 《Computer Networks》: UG course, Spring semester
 
 **Introduction:** This course teaches the concepts and general principles of the underlying networks of the Internet. Learn about the structure and components of computer networks, packet switching, and layer architectures as well as a variety of applications.  
@@ -188,6 +189,35 @@ __L. Wang__, K. Wu and M. Hamdi. Introduction to Attachment Transmission in Wire
 > Textbook: 《Discrete Mathematics》(Suyun Geng et al)
 > 
 > Reference: 《Mathematics and Its ApplicationKenneth》(H. Reson  ，McGraw-Hill)
+
+## Competitions and projects
+- 指导本科生陈鸿杰、刘婉玲、黄彦道获得中国大学生计算机设计大赛二等奖，2019.07
+- 指导本科生杨锐雄、黄鹤羽获得中国大学生计算机设计大赛三等奖，2019.07
+- 指导本科生孙乾、张嘉睿、陈林、邱铭辉获得中国大学生服务外包创新创业大赛二等奖，2019.06
+- 指导本科生陈鸿杰、刘婉玲、陈文强、关茂柠获得中国大学生服务外包创新创业大赛三等奖，2019.06
+- 指导本科生陈鸿杰、刘婉玲、李斯濠、黄彦道、孙乾、张嘉睿、周泽鑫获得“挑战杯”广东大学生课外学术科技作品竞赛三等奖，2019.05
+- 指导本科生杨锐雄、黄鹤羽获得广东省大学生计算机设计大赛二等奖，2019.05
+- 指导本科生陈凯鑫、詹楷杰获得广东省大学生计算机设计大赛三等奖，2019.05
+- 指导本科生陈凯鑫、陈晓佳、谢思泽获得美国大学生数学建模大赛二等奖，2019.04
+- 指导本科生陈鸿杰、纪静敏、边映雪获得美国大学生数学建模大赛二等奖，2019.04
+- 指导本科生陈惠怡、胡韫、陆涵获得全国大学生建模大赛广东省一等奖，2018.08
+- 指导本科生邱铭辉、黄彦道、陈林获得全国大学生计算机设计大赛一等奖，2018.08
+- 指导本科生胡奕绅、卢名扬、陈俊锋获得全国大学神计算机设计大赛二等奖，2018.08
+- 指导本科生邱铭辉、黄彦道、陈林获得广东省大学生计算机设计大赛一等奖，2018.08
+- 指导本科生胡奕绅、卢名扬、陈俊锋获得广东省大学生计算机设计大赛三等奖，2018.08
+- 指导研究生陈文强获得第二届深创杯国际大学生创新创业大赛突出双创项目奖和优秀双创项目奖，2018.08
+- 指导本科生黄彦道获得中国“互联网+”大学生创新创业大赛广东省银奖，2018.08
+- 指导本科生谢婧雯、胡杰仁、周园洲获得美国大学生数学建模大赛二等奖，2018.01
+- 指导本科生王嘉豪、曾志超、黄志滔获得美国大学生数学建模大赛二等奖，2018.01
+- 指导本科生黄勇志、陈锐彪、代朝阳获得美国大学生数学建模大赛一等奖，2017.01
+- 指导本科生黄勇志、陈锐彪、代朝阳获得全国大学生数学建模大赛三等奖，2016.10
+- 指导本科生陈文强获选“深圳大学2016届百篇优秀本科毕业论文（设计）”，2016.06
+- 指导研究生陈文强获得腾讯锐意挑战创新团队奖，2017.12
+- 指导研究生陈文强获得全国研究生移动终端应用设计创新大赛二等奖，2017.11
+- 指导研究生陈文强获得全国研究生智慧城市技术与创意设计大赛二等奖，2017.08
+- 指导研究生陈文强获得广东省“挑战杯”大学生课外学术科技作品竞赛一等奖，2017.06
+- 指导研究生陈文强立项广东省大学生科技创新攀登计划专项资金，2017.05
+- 指导本科生纪静敏、蔡少填立项2018年国家级大学生创新创业训练计划项目，2018.05
 
 # AWARD
 - ACM SIGAPP China Rising Star, 2020.08
