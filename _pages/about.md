@@ -128,34 +128,61 @@ My research interest mainly focuses on the design and implementation of future h
 <strong> <font color="#738FBF">[ICPADS]</font></strong> __L. Wang__, K. Wu, M. Hamdi and L. M. Ni, “Attachment Learning for Multi-Channel Allocation in Cellular OFDMA Networks”, in the IEEE 17th International Conference on Parallel and Distributed Systems (IEEE ICPADS), 2011.
 
 ## Selected Journal Papers
-1. <strong> <font color="#3286AE">[TWC]</font></strong> Du, Xiao, Ting Wang, Qiang Feng, Chenhui Ye, Tao Tao, __L. Wang__, Yuanming Shi, and Mingsong Chen. "Multi-agent Reinforcement Learning for Dynamic Resource Management in 6G in-X Subnetworks." In IEEE Transactions on Wireless Communications ,Volume: 22, Issue: 3，pp:1900-1914, MARCH 2023. 
-1. <strong> <font color="#3286AE">[TOSN]</font></strong> __L. Wang__, X. Q, R. Huang, K.Wu and Q. Zhang, Exploring Partially Overlapping Channels for Low Power Wide Area Networks, In ACM Transactions on Sensor Networks (TOSN), 2022
-1. <strong> <font color="#3286AE">[TOSN]</font></strong> K. Wu, Y. Huang, M. Qiu, Z. Peng and __L. Wang__*, Towards Device-free and User-independent Fall Detection using Floor Vibration, In ACM Transactions on Sensor Networks (TOSN), 2022  
-1. <strong> <font color="#3286AE">[JNCA]</font></strong> US Toro, BM ElHalawany, AB Wong, __L. Wang__ and K. Wu, Backscatter communication-based wireless sensing (BBWS): Performance enhancement and future applications, in Journal of Network and Computer Applications, Volume 208, December 2022.
-1. <strong> <font color="#3286AE">[TMC]</font></strong> Huichuwu Li; Jiang Xiao; Wei Wang; __L. Wang__; Dian Zhang; Hai Jin. InFit: Combination Movement Recognition For Intensive Fitness Assistant Via Wi-Fi. IEEE Transactions on Mobile Computing. 26 September 2022.
-1. <strong> <font color="#3286AE">[TMC]</font></strong> Y. Huang, Y. Dong, __L. Wang__* and K. Wu, “A Portable and Convenient System for Unknown Liquid Identification with Smartphone Vibration”, in IEEE Transactions on Mobile Computing (TMC), 2021
-1. <strong> <font color="#3286AE">[IEEE Network]</font></strong> U. Toro, E. B. Elhalawany, A. Wong, __L. Wang__* and K. Wu, “Machine Learning Assisted Signal Detection in Ambient Backscatter Communication Networks”. in IEEE Network，2021.
-1. <strong> <font color="#3286AE">[计算机研究与发展]</font></strong> __王璐__，张健浩，王廷，伍楷舜*，“面向云网融合的细粒度多接入边缘计算架构”，计算机研究与发展，2021, 58(6):  1275-1290.  
-1. <strong> <font color="#3286AE">[TMC]</font></strong> K. Wu, Y. Huang, W. Chen, L. Chen, X. Zhangy, __L. Wang__, and R. Ruby, “Power Saving and Secure Text Input for Commodity Smart Watches”, in IEEE Transactions on Mobile Computing, Vol.20 , Issue.6 , pp 2281 - 2296, Jun. 2021.
-1. <strong> <font color="#3286AE">[TMC]</font></strong> W. Chen, M. Guan, Y. Huang, __L. Wang__, R. Ruby, W. Hu and K. Wu. A Low Latency On-body Typing System through Single Vibration Sensor, in IEEE Transactions on Mobile Computing, Volume: 19, Issue: 11, pp 2520 – 2532, Nov. 2020.
-1. <strong> <font color="#3286AE">[IEEE Wirel Commun]</font></strong> __L. Wang__, Y. Che, J. Long, L. Duan and K. Wu*, Multiple Access mmWave Design for UAV-aided 5G Communications, in IEEE Wireless Communication Magazine, Vol.26 , Issue.1 , pp 64-71, Feb. 2019
-1. <strong> <font color="#3286AE">[IOT]</font></strong> __L. Wang__, H. Yang, X. Qi, J. Xu and K. Wu*, iCast: Fine-grained Wireless Video Streaming over Internet of Intelligent Vehicles, in IEEE Internet of Things Journal (IOT-J), Vol.6 , Issue.1 , pp 111-123, Feb. 2019.
-1. <strong> <font color="#3286AE">[IEEE ACCESS]</font></strong> Yilin ZHANG , __L. Wang__ , Kai Wang , Kam Sing WONG , Kaishun Wu, Recent Advances in the Hardware of Visible Light Communication, accepted to appear in IEEE ACCESS, Vol.7 , pp 91093 - 91104, July, 2019.
-1. <strong> <font color="#3286AE">[IEEE Wirel Commun]</font></strong> R. Xie, __L. Wang__ and K. Wu, Energy Efficiency Enhancement for CNN-based Deep Mobile Sensing, in IEEE Wireless Communication Magazine, Volume: 26, Issue: 3, pp161-167，June 2019.
-1. <strong> <font color="#3286AE">[IEEE Commun. Surv. Tutor.]</font></strong> J. Yao, J. Xu, S. Luo, __L. Wang__, C. Yang, K. Wu and W. Lou, “Comprehensive Study on MIMO-related Interference Management in WLANs”, in IEEE Communications Surveys and Tutorials, vol. 21, Issue. 3, pp 2087-2110, January 2019.
-1. <strong> <font color="#3286AE">[IEEE Network]</font></strong> __L. Wang__, H. Yang, J. Long, K. Wu and J. Chen*, “Enabling Ultra-dense UAV-aided Network with Overlapped Spectrum Sharing: Potentials and Approaches”, in IEEE Network Magazine, Volume:32, Issue:5, pp 85-91, September 2018.
-1. <strong> <font color="#3286AE">[CC]</font></strong> T. Wang, __L. Wang__*, M. Hamdi, “A Cost-effective Low-latency Overlaid Torus-based Data Center Network Architecture”, in Computer Communications, vol. 129, pp. 89 - 100, September 2018.
-1. <strong> <font color="#3286AE">[IEEE Trans. Veh. Technol.]</font></strong> J. Yao, J. Xu, __L. Wang__, K. Wu and W. Lou*, “On Exploiting Concurrent Transmissions through Discernible Interference Cancellation”, in IEEE Transactions on Vehicular Technology, Volume: 67, Issue: 10，pp9370 - 9384，Oct. 2018. 
-1. <strong> <font color="#3286AE">[IEEE Wirel Commun]</font></strong> J. Xu, J. Yao, __L. Wang__, and K. Wu*, “Revolution of Self-Organizing Network for 5G mmWave Small Cell Management: From Reactive to Proactive”, in IEEE Wireless Communication Magazine, Volume: 25, Issue: 4, pp66-73，Aug. 2018
-1. <strong> <font color="#3286AE">[IOT]</font></strong> J. Xu, J. Yao, __L. Wang__, Z. Ming, K. Wu*, L. Chen, “Narrowband Internet of Things: Evolutions, Technologies and Issues”, in IEEE Internet of Things Journal, Volume: 5, Issue:3, Page(s): 1449-1462, JUNE 2018.
-1. <strong> <font color="#3286AE">[ACS Appl. Mater. Interfaces]</font></strong> Zhang, Y.; Jiang, M.; Han, T.; Xiao, X.; Chen, W.; __Wang, L.__; Wong, K. S.; Wang, R.; Wang, K.; Tang, B. Z.; Wu, K., Aggregation-Induced Emission Luminogens as Color Converters for Visible-Light Communication. ACS Appl. Mater. Interfaces Sep. 2018, 10 (40), 34418-34426
-1. <strong> <font color="#3286AE">[TON]</font></strong> Wang, Wei; Chen, Yingjie; __Wang, Lu__; Zhang, Qian*, “Sampleless Wi-Fi: Bringing Low Power to Wi-Fi Communications”, in the IEEE/ACM Transactions on Networking, vol. 25, No.3, pp. 1663 - 1672, January 2017
-1. <strong> <font color="#3286AE">[TWC]</font></strong> __L. Wang__, X. Qi, J. Xiao, K. Wu, M. Hamdi and Q. Zhang*, “Exploring Smart Pilot for Wireless Rate Adaptation”, in IEEE Transactions on Wireless Communications, Vol. 15, No.7, pp. 4571-4582, July 2016 (IF:4.951)
-1. <strong> <font color="#3286AE">[TWC]</font></strong> __L. Wang__, K. Wu, J. Xiao and M. Hamdi*, “Harnessing Frequency Domain for Cooperative Sensing and Multi-channel Contention in CRAHNs”, in IEEE Transactions on Wireless Communications, Volume 13, Issue 1, pp. 440-449, January 2014. (IF:2.762)
-1. <strong> <font color="#3286AE">[TWC]</font></strong> __L. Wang__, K. Wu, M. Hamdi* and L. M. Ni, “Attachment Learning for Multi-Channel Allocation in Distributed OFDMA-based Networks”, IEEE Transactions on Wireless Communications, Vol. 12, No. 4, pp. 1712-1721, March 2013.
-1. <strong> <font color="#3286AE">[TWC]</font></strong> __L. Wang__, K. Wu and M. Hamdi*, “Combating Hidden and Exposed Terminal Problems in Wireless Networks”, IEEE Transactions on Wireless Communications，Vol. 11, No. 11, pp. 4204-4213, October 2012. 
-1. <strong> <font color="#3286AE">[TPDS]</font></strong> __L. Wang__, K. Wu and M. Hamdi*, “Attached-RTS: Eliminating an Exposed Terminal Problem in Wireless Networks”, IEEE Transactions on Parallel and Distributed Systems, Vol. 24, No. 7, pp. 1289-1299, July 2012.  
-1. <strong> <font color="#3286AE">[TMC]</font></strong> K. Wu, H. Li, __L. Wang__, Y. Yi, Y. Liu, D. Chen, X. Luo, Q. Zhang and L. M. Ni*, “hJam: Attachment Transmission in WLANs”, in IEEE Transactions on Mobile Computing, Vol. 12, No. 12, pp. 2334-2345, September 2012
+<strong> <font color="#3286AE">[TWC]</font></strong> Du, Xiao, Ting Wang, Qiang Feng, Chenhui Ye, Tao Tao, __L. Wang__, Yuanming Shi, and Mingsong Chen. "Multi-agent Reinforcement Learning for Dynamic Resource Management in 6G in-X Subnetworks." In IEEE Transactions on Wireless Communications ,Volume: 22, Issue: 3，pp:1900-1914, MARCH 2023. 
+
+<strong> <font color="#3286AE">[TOSN]</font></strong> __L. Wang__, X. Q, R. Huang, K.Wu and Q. Zhang, Exploring Partially Overlapping Channels for Low Power Wide Area Networks, In ACM Transactions on Sensor Networks (TOSN), 2022
+
+<strong> <font color="#3286AE">[TOSN]</font></strong> K. Wu, Y. Huang, M. Qiu, Z. Peng and __L. Wang__*, Towards Device-free and User-independent Fall Detection using Floor Vibration, In ACM Transactions on Sensor Networks (TOSN), 2022  
+
+<strong> <font color="#3286AE">[JNCA]</font></strong> US Toro, BM ElHalawany, AB Wong, __L. Wang__ and K. Wu, Backscatter communication-based wireless sensing (BBWS): Performance enhancement and future applications, in Journal of Network and Computer Applications, Volume 208, December 2022.
+
+<strong> <font color="#3286AE">[TMC]</font></strong> Huichuwu Li; Jiang Xiao; Wei Wang; __L. Wang__; Dian Zhang; Hai Jin. InFit: Combination Movement Recognition For Intensive Fitness Assistant Via Wi-Fi. IEEE Transactions on Mobile Computing. 26 September 2022.
+
+<strong> <font color="#3286AE">[TMC]</font></strong> Y. Huang, Y. Dong, __L. Wang__* and K. Wu, “A Portable and Convenient System for Unknown Liquid Identification with Smartphone Vibration”, in IEEE Transactions on Mobile Computing (TMC), 2021
+
+<strong> <font color="#3286AE">[IEEE Network]</font></strong> U. Toro, E. B. Elhalawany, A. Wong, __L. Wang__* and K. Wu, “Machine Learning Assisted Signal Detection in Ambient Backscatter Communication Networks”. in IEEE Network，2021.
+
+<strong> <font color="#3286AE">[计算机研究与发展]</font></strong> __王璐__，张健浩，王廷，伍楷舜*，“面向云网融合的细粒度多接入边缘计算架构”，计算机研究与发展，2021, 58(6):  1275-1290.  
+
+<strong> <font color="#3286AE">[TMC]</font></strong> K. Wu, Y. Huang, W. Chen, L. Chen, X. Zhangy, __L. Wang__, and R. Ruby, “Power Saving and Secure Text Input for Commodity Smart Watches”, in IEEE Transactions on Mobile Computing, Vol.20 , Issue.6 , pp 2281 - 2296, Jun. 2021.
+
+<strong> <font color="#3286AE">[TMC]</font></strong> W. Chen, M. Guan, Y. Huang, __L. Wang__, R. Ruby, W. Hu and K. Wu. A Low Latency On-body Typing System through Single Vibration Sensor, in IEEE Transactions on Mobile Computing, Volume: 19, Issue: 11, pp 2520 – 2532, Nov. 2020.
+
+<strong> <font color="#3286AE">[IEEE Wirel Commun]</font></strong> __L. Wang__, Y. Che, J. Long, L. Duan and K. Wu*, Multiple Access mmWave Design for UAV-aided 5G Communications, in IEEE Wireless Communication Magazine, Vol.26 , Issue.1 , pp 64-71, Feb. 2019
+
+<strong> <font color="#3286AE">[IOT]</font></strong> __L. Wang__, H. Yang, X. Qi, J. Xu and K. Wu*, iCast: Fine-grained Wireless Video Streaming over Internet of Intelligent Vehicles, in IEEE Internet of Things Journal (IOT-J), Vol.6 , Issue.1 , pp 111-123, Feb. 2019.
+
+<strong> <font color="#3286AE">[IEEE ACCESS]</font></strong> Yilin ZHANG , __L. Wang__ , Kai Wang , Kam Sing WONG , Kaishun Wu, Recent Advances in the Hardware of Visible Light Communication, accepted to appear in IEEE ACCESS, Vol.7 , pp 91093 - 91104, July, 2019.
+
+<strong> <font color="#3286AE">[IEEE Wirel Commun]</font></strong> R. Xie, __L. Wang__ and K. Wu, Energy Efficiency Enhancement for CNN-based Deep Mobile Sensing, in IEEE Wireless Communication Magazine, Volume: 26, Issue: 3, pp161-167，June 2019.
+
+<strong> <font color="#3286AE">[IEEE Commun. Surv. Tutor.]</font></strong> J. Yao, J. Xu, S. Luo, __L. Wang__, C. Yang, K. Wu and W. Lou, “Comprehensive Study on MIMO-related Interference Management in WLANs”, in IEEE Communications Surveys and Tutorials, vol. 21, Issue. 3, pp 2087-2110, January 2019.
+
+<strong> <font color="#3286AE">[IEEE Network]</font></strong> __L. Wang__, H. Yang, J. Long, K. Wu and J. Chen*, “Enabling Ultra-dense UAV-aided Network with Overlapped Spectrum Sharing: Potentials and Approaches”, in IEEE Network Magazine, Volume:32, Issue:5, pp 85-91, September 2018.
+
+<strong> <font color="#3286AE">[CC]</font></strong> T. Wang, __L. Wang__*, M. Hamdi, “A Cost-effective Low-latency Overlaid Torus-based Data Center Network Architecture”, in Computer Communications, vol. 129, pp. 89 - 100, September 2018.
+
+<strong> <font color="#3286AE">[IEEE Trans. Veh. Technol.]</font></strong> J. Yao, J. Xu, __L. Wang__, K. Wu and W. Lou*, “On Exploiting Concurrent Transmissions through Discernible Interference Cancellation”, in IEEE Transactions on Vehicular Technology, Volume: 67, Issue: 10，pp9370 - 9384，Oct. 2018. 
+
+<strong> <font color="#3286AE">[IEEE Wirel Commun]</font></strong> J. Xu, J. Yao, __L. Wang__, and K. Wu*, “Revolution of Self-Organizing Network for 5G mmWave Small Cell Management: From Reactive to Proactive”, in IEEE Wireless Communication Magazine, Volume: 25, Issue: 4, pp66-73，Aug. 2018
+
+<strong> <font color="#3286AE">[IOT]</font></strong> J. Xu, J. Yao, __L. Wang__, Z. Ming, K. Wu*, L. Chen, “Narrowband Internet of Things: Evolutions, Technologies and Issues”, in IEEE Internet of Things Journal, Volume: 5, Issue:3, Page(s): 1449-1462, JUNE 2018.
+
+<strong> <font color="#3286AE">[ACS Appl. Mater. Interfaces]</font></strong> Zhang, Y.; Jiang, M.; Han, T.; Xiao, X.; Chen, W.; __Wang, L.__; Wong, K. S.; Wang, R.; Wang, K.; Tang, B. Z.; Wu, K., Aggregation-Induced Emission Luminogens as Color Converters for Visible-Light Communication. ACS Appl. Mater. Interfaces Sep. 2018, 10 (40), 34418-34426
+
+<strong> <font color="#3286AE">[TON]</font></strong> Wang, Wei; Chen, Yingjie; __Wang, Lu__; Zhang, Qian*, “Sampleless Wi-Fi: Bringing Low Power to Wi-Fi Communications”, in the IEEE/ACM Transactions on Networking, vol. 25, No.3, pp. 1663 - 1672, January 2017
+
+<strong> <font color="#3286AE">[TWC]</font></strong> __L. Wang__, X. Qi, J. Xiao, K. Wu, M. Hamdi and Q. Zhang*, “Exploring Smart Pilot for Wireless Rate Adaptation”, in IEEE Transactions on Wireless Communications, Vol. 15, No.7, pp. 4571-4582, July 2016 (IF:4.951)
+
+<strong> <font color="#3286AE">[TWC]</font></strong> __L. Wang__, K. Wu, J. Xiao and M. Hamdi*, “Harnessing Frequency Domain for Cooperative Sensing and Multi-channel Contention in CRAHNs”, in IEEE Transactions on Wireless Communications, Volume 13, Issue 1, pp. 440-449, January 2014. (IF:2.762)
+
+<strong> <font color="#3286AE">[TWC]</font></strong> __L. Wang__, K. Wu, M. Hamdi* and L. M. Ni, “Attachment Learning for Multi-Channel Allocation in Distributed OFDMA-based Networks”, IEEE Transactions on Wireless Communications, Vol. 12, No. 4, pp. 1712-1721, March 2013.
+
+<strong> <font color="#3286AE">[TWC]</font></strong> __L. Wang__, K. Wu and M. Hamdi*, “Combating Hidden and Exposed Terminal Problems in Wireless Networks”, IEEE Transactions on Wireless Communications，Vol. 11, No. 11, pp. 4204-4213, October 2012. 
+
+<strong> <font color="#3286AE">[TPDS]</font></strong> __L. Wang__, K. Wu and M. Hamdi*, “Attached-RTS: Eliminating an Exposed Terminal Problem in Wireless Networks”, IEEE Transactions on Parallel and Distributed Systems, Vol. 24, No. 7, pp. 1289-1299, July 2012.  
+
+<strong> <font color="#3286AE">[TMC]</font></strong> K. Wu, H. Li, __L. Wang__, Y. Yi, Y. Liu, D. Chen, X. Luo, Q. Zhang and L. M. Ni*, “hJam: Attachment Transmission in WLANs”, in IEEE Transactions on Mobile Computing, Vol. 12, No. 12, pp. 2334-2345, September 2012
 
 # Teaching
 No content
