@@ -51,7 +51,7 @@ My research interest mainly focuses on the design and implementation of future h
 ## Conference
 <strong> <font color="#738FBF">[UbiComp]</font></strong> K. Chen, Y. Huang, Y. Chen, H. Zhong, L. Lin, __L. Wang__*,  K. Wu, LiSee: A Headphone that Provides All-day Assistance for Blind and Low-vision Users to Reach Surrounding Objects. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 6(3), 1-30. 2022
 
-<strong> <font color="#738FBF">[SenSys]</font></strong> Aslan B. Wong , Dongliang Tu , ZiQi Huang , Xia Chen , __L. Wang__* , Kaishun Wu, Muscle-Mind: towards the Strength Training Monitoring via the Neuro-Muscular Connection Sensing, in SenSys '21: Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems, November 2021 Pages 371–372https://doi.org/10.1145/3485730.3492875.
+<strong> <font color="#738FBF">[SenSys]</font></strong> Aslan B. Wong , Dongliang Tu , ZiQi Huang , Xia Chen , __L. Wang__* , Kaishun Wu, Muscle-Mind: towards the Strength Training Monitoring via the Neuro-Muscular Connection Sensing, in SenSys '21: Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems, November 2021 Pages 371–372.
 
 <strong> <font color="#738FBF">[MobiCom]</font></strong> Y. Huang, Y. Dong, K. Chen, __L. Wang__, Q. Huang, K. Wu, “Lili: Liquid Quality Monitoring with Light Signal”, in The 27th Annual International Conference on Mobile Computing and Networking (MobiCom '21), 2021.
 
