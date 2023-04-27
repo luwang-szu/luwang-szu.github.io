@@ -26,7 +26,7 @@ Internationally, Lu Wang has also received best paper awards including Internati
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-<strong> <font color="#8273AD">[Paper]</font></strong> 2023, our paper "Beverage Deterioration Monitoring Based on Surface Tension Dynamics and Absorption Spectrum Analysis" is to be appear in IEEE Transactions on Mobile Computing (TMC)
+<strong> <font color="#8273AD">[Paper]</font></strong> 2023, our paper "Beverage Deterioration Monitoring Based on Surface Tension Dynamics and Absorption Spectrum Analysis" is accepted in IEEE Transactions on Mobile Computing (TMC)
 
 <strong> <font color="#8273AD">[Paper]</font></strong> 2022, our paper "LiSee: A Headphone that Provides All-day Assistance for Blind and Low-vision Users to Reach Surrounding Objects" has been published in ACM international joint conference on Pervasive and Ubiquitous Computing.
 
@@ -51,7 +51,7 @@ My research interest mainly focuses on the design and implementation of future h
 <strong> <font color="#738FBF">[SpringerBriefs]</font></strong> **L. Wang**, K. Wu and M. Hamdi. Introduction to Attachment Transmission in Wireless Networks, in SpringerBriefs in Computer Science Series, Springer London Limited, 2014.
 
 ## Conference
-<strong> <font color="#738FBF">[UbiComp]</font></strong> K. Chen, Y. Huang, Y. Chen, H. Zhong, L. Lin, __L. Wang__(通信作者),  K. Wu, LiSee: A Headphone that Provides All-day Assistance for Blind and Low-vision Users to Reach Surrounding Objects. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 6(3), 1-30. 2022
+<strong> <font color="#738FBF">[UbiComp]</font></strong> K. Chen, Y. Huang, Y. Chen, H. Zhong, L. Lin, __L. Wang__*,  K. Wu, LiSee: A Headphone that Provides All-day Assistance for Blind and Low-vision Users to Reach Surrounding Objects. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 6(3), 1-30. 2022
 
 <strong> <font color="#738FBF">[SenSys]</font></strong> Aslan B. Wong , Dongliang Tu , ZiQi Huang , Xia Chen , __L. Wang__* , Kaishun Wu, Muscle-Mind: towards the Strength Training Monitoring via the Neuro-Muscular Connection Sensing, in SenSys '21: Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems, November 2021 Pages 371–372https://doi.org/10.1145/3485730.3492875.
 
@@ -126,7 +126,7 @@ My research interest mainly focuses on the design and implementation of future h
 
 <strong> <font color="#3286AE">[TMC]</font></strong> Y. Huang, Y. Dong, __L. Wang__* and K. Wu, “A Portable and Convenient System for Unknown Liquid Identification with Smartphone Vibration”, in IEEE Transactions on Mobile Computing (TMC), 2021
 
-<strong> <font color="#3286AE">[IEEE Network]</font></strong> U. Toro, E. B. Elhalawany, A. Wong, __L. Wang__* and K. Wu, “Machine Learning Assisted Signal Detection in Ambient Backscatter Communication Networks”. in IEEE Network，2021.
+<strong> <font color="#3286AE">[IEEE Netw.]</font></strong> U. Toro, E. B. Elhalawany, A. Wong, __L. Wang__* and K. Wu, “Machine Learning Assisted Signal Detection in Ambient Backscatter Communication Networks”. in IEEE Network，2021.
 
 <strong> <font color="#3286AE">[计算机研究与发展]</font></strong> __王璐__，张健浩，王廷，伍楷舜*，“面向云网融合的细粒度多接入边缘计算架构”，计算机研究与发展，2021, 58(6):  1275-1290.  
 
@@ -144,11 +144,11 @@ My research interest mainly focuses on the design and implementation of future h
 
 <strong> <font color="#3286AE">[IEEE Commun. Surv. Tutor.]</font></strong> J. Yao, J. Xu, S. Luo, __L. Wang__, C. Yang, K. Wu and W. Lou, “Comprehensive Study on MIMO-related Interference Management in WLANs”, in IEEE Communications Surveys and Tutorials, vol. 21, Issue. 3, pp 2087-2110, January 2019.
 
-<strong> <font color="#3286AE">[IEEE Network]</font></strong> __L. Wang__, H. Yang, J. Long, K. Wu and J. Chen*, “Enabling Ultra-dense UAV-aided Network with Overlapped Spectrum Sharing: Potentials and Approaches”, in IEEE Network Magazine, Volume:32, Issue:5, pp 85-91, September 2018.
+<strong> <font color="#3286AE">[IEEE Netw.]</font></strong> __L. Wang__, H. Yang, J. Long, K. Wu and J. Chen*, “Enabling Ultra-dense UAV-aided Network with Overlapped Spectrum Sharing: Potentials and Approaches”, in IEEE Network Magazine, Volume:32, Issue:5, pp 85-91, September 2018.
 
 <strong> <font color="#3286AE">[CC]</font></strong> T. Wang, __L. Wang__*, M. Hamdi, “A Cost-effective Low-latency Overlaid Torus-based Data Center Network Architecture”, in Computer Communications, vol. 129, pp. 89 - 100, September 2018.
 
-<strong> <font color="#3286AE">[IEEE Trans. Veh. Technol.]</font></strong> J. Yao, J. Xu, __L. Wang__, K. Wu and W. Lou*, “On Exploiting Concurrent Transmissions through Discernible Interference Cancellation”, in IEEE Transactions on Vehicular Technology, Volume: 67, Issue: 10，pp9370 - 9384，Oct. 2018. 
+<strong> <font color="#3286AE">[TVT]</font></strong> J. Yao, J. Xu, __L. Wang__, K. Wu and W. Lou*, “On Exploiting Concurrent Transmissions through Discernible Interference Cancellation”, in IEEE Transactions on Vehicular Technology, Volume: 67, Issue: 10，pp9370 - 9384，Oct. 2018. 
 
 <strong> <font color="#3286AE">[IEEE Wirel Commun]</font></strong> J. Xu, J. Yao, __L. Wang__, and K. Wu*, “Revolution of Self-Organizing Network for 5G mmWave Small Cell Management: From Reactive to Proactive”, in IEEE Wireless Communication Magazine, Volume: 25, Issue: 4, pp66-73，Aug. 2018
 
