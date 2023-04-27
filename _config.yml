@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Lu Wang"
-  avatar           : "images/me.png"
+  avatar           : "https://i.328888.xyz/2023/04/27/i970yy.png" # images/me.png
   bio              : "Associate professor"
   location         : "Shenzhen, Guangdong, China"
   employer         :
