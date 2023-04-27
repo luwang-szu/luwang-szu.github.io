@@ -218,8 +218,8 @@ My research interest mainly focuses on the design and implementation of future h
 - 指导本科生纪静敏、蔡少填立项2018年国家级大学生创新创业训练计划项目，2018.05
 
 # AWARD
-- China Patent Awards (),Excellence Award, 2022.07
-- Guangdong Patent Awards，Excellence Award, 2021.08
+- China Patent Awards (中国专利奖), Excellence Award, 2022.07
+- Guangdong Patent Awards (广东省专利奖), Excellence Award, 2021.08
 - ACM SIGAPP China Rising Star, 2020.08
 - Excellent Young Researcher of Shenzhen University (深圳大学"荔园优青"), 2019.01
 - Guangdong Special Support for Young Talent ("广东特支计划"科技创新青年拔尖人才), 2018.07
