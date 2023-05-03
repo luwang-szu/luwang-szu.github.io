@@ -53,31 +53,31 @@ My research interest mainly focuses on the design and implementation of future h
 
 <strong> <font color="#738FBF">[SenSys]</font></strong> Aslan B. Wong , Dongliang Tu , ZiQi Huang , Xia Chen , __L. Wang__* , Kaishun Wu, Muscle-Mind: towards the Strength Training Monitoring via the Neuro-Muscular Connection Sensing, in SenSys '21: Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems, November 2021 Pages 371–372. [(PDF)](../paper/Muscle-MindSenSys.pdf)
 
-<strong> <font color="#738FBF">[MobiCom]</font></strong> Y. Huang, Y. Dong, K. Chen, __L. Wang__, Q. Huang, K. Wu, “Lili: Liquid Quality Monitoring with Light Signal”, in The 27th Annual International Conference on Mobile Computing and Networking (MobiCom '21), 2021. ([PDF](../paper/LiliMobiCom.pdf))
+<strong> <font color="#738FBF">[MobiCom]</font></strong> Y. Huang, Y. Dong, K. Chen, __L. Wang__, Q. Huang, K. Wu, “Lili: Liquid Quality Monitoring with Light Signal”, in The 27th Annual International Conference on Mobile Computing and Networking (MobiCom '21), 2021. [(PDF)](../paper/LiliMobiCom.pdf)
 
-<strong> <font color="#738FBF">[MobiCom]</font></strong> Y. Huang, K. Chen, Y. Huang, __L. Wang__ and K. Wu, “Vi-Liquid: Unknown Liquid Identification with Your Smartphone Vibration”, in The 27th Annual International Conference on Mobile Computing and Networking (MobiCom '21), 2021. ([PDF](../paper/Vi-LiquidMobiCom.pdf))
+<strong> <font color="#738FBF">[MobiCom]</font></strong> Y. Huang, K. Chen, Y. Huang, __L. Wang__ and K. Wu, “Vi-Liquid: Unknown Liquid Identification with Your Smartphone Vibration”, in The 27th Annual International Conference on Mobile Computing and Networking (MobiCom '21), 2021. [(PDF)](../paper/Vi-LiquidMobiCom.pdf)
 
-<strong> <font color="#738FBF">[Interspeech]</font></strong> X. Qi and __L. Wang__*, Parameter-Transfer Learning for Low-Resource Individualization of Head-Related Transfer Functions, in Interspeech, 2019. ([PDF](../paper/Parameter-Transfer.pdf))
+<strong> <font color="#738FBF">[Interspeech]</font></strong> X. Qi and __L. Wang__*, Parameter-Transfer Learning for Low-Resource Individualization of Head-Related Transfer Functions, in Interspeech, 2019. [(PDF)](../paper/Parameter-Transfer.pdf)
 
-<strong> <font color="#738FBF">[SECON]</font></strong> Y. Huang, W. Chen, H. Chen, __L. Wang__* and K. Wu, “G-Fall: Device-free and Training-free Fall Detection with Geophones”, in the IEEE International Conference on Sensing, Communication and Networking (SECON), 2019. ([PDF](../paper/G-Fall.pdf))
+<strong> <font color="#738FBF">[SECON]</font></strong> Y. Huang, W. Chen, H. Chen, __L. Wang__* and K. Wu, “G-Fall: Device-free and Training-free Fall Detection with Geophones”, in the IEEE International Conference on Sensing, Communication and Networking (SECON), 2019. [(PDF)](../paper/G-Fall.pdf)
 
-<strong> <font color="#738FBF">[MobiCom]</font></strong> W. Chen, L. Chen, Y. Huang, X. Zhang, __L. Wang__, R. Ruby, K. Wu, “Taprint: Secure Text Input for Commodity Smart Wristbands”, in The 25th Annual International Conference on Mobile Computing and Networking (MobiCom '19), 2019. ([PDF](../paper/Taprint.pdf))
+<strong> <font color="#738FBF">[MobiCom]</font></strong> W. Chen, L. Chen, Y. Huang, X. Zhang, __L. Wang__, R. Ruby, K. Wu, “Taprint: Secure Text Input for Commodity Smart Wristbands”, in The 25th Annual International Conference on Mobile Computing and Networking (MobiCom '19), 2019. [(PDF)](../paper/Taprint.pdf)
 
-<strong> <font color="#738FBF">[ICPADS]</font></strong> Y. Huang, S. Cai, __L. Wang__ and K. Wu, Oinput: a Bone-Conductive QWERT Keyboard Recognition for Wearable Device，in the IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS), 2018. (Invited Paper) ([PDF](../paper/Oinput.pdf))
+<strong> <font color="#738FBF">[ICPADS]</font></strong> Y. Huang, S. Cai, __L. Wang__ and K. Wu, Oinput: a Bone-Conductive QWERT Keyboard Recognition for Wearable Device，in the IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS), 2018. (Invited Paper) [(PDF)](../paper/Oinput.pdf)
 
-<strong> <font color="#738FBF">[ICPADS]</font></strong> Q. Dai, Y. Huang, __L. Wang__, R. Ruby and K. Wu, mm-Humidity: Fine-grained Humidity Sensing with Millimeter Wave Signals, in the IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS), 2018. ([PDF](../paper/mm-Humidity.pdf))
+<strong> <font color="#738FBF">[ICPADS]</font></strong> Q. Dai, Y. Huang, __L. Wang__, R. Ruby and K. Wu, mm-Humidity: Fine-grained Humidity Sensing with Millimeter Wave Signals, in the IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS), 2018. [(PDF)](../paper/mm-Humidity.pdf)
 
-<strong> <font color="#738FBF">[ICNP]</font></strong> S. Zhong, Y. Qiu, Rukhsana Ruby, __L. Wang__* and K. Wu, “SIDE: Semi-Distributed Mechanical Equilibrium based UAV Deployment”, in the IEEE International Conference on Network Protocols (ICNP), 2018. ([PDF](../paper/SIDE.pdf))
+<strong> <font color="#738FBF">[ICNP]</font></strong> S. Zhong, Y. Qiu, Rukhsana Ruby, __L. Wang__* and K. Wu, “SIDE: Semi-Distributed Mechanical Equilibrium based UAV Deployment”, in the IEEE International Conference on Network Protocols (ICNP), 2018. [(PDF)](../paper/SIDE.pdf)
 
-<strong> <font color="#738FBF">[SECON]</font></strong> W. Chen, M. Guan, Y. Huang, __L. Wang__*, R. Ruby, W. Hu and K. Wu , “ViType: A Cost Efficient On-body Typing System through Vibration”, in the IEEE International Conference on Sensing, Communication and Networking (SECON) , 2018. ( Best Paper Award) ([PDF](../paper/ViType.pdf))
+<strong> <font color="#738FBF">[SECON]</font></strong> W. Chen, M. Guan, Y. Huang, __L. Wang__*, R. Ruby, W. Hu and K. Wu , “ViType: A Cost Efficient On-body Typing System through Vibration”, in the IEEE International Conference on Sensing, Communication and Networking (SECON) , 2018. ( Best Paper Award) [(PDF)](../paper/ViType.pdf)
 
-<strong> <font color="#738FBF">[SenSys]</font></strong> W. Chen, Y. Lian, __L Wang__, R. Ruby, W. Hu and K. Wu , “Virtual Keyboard for Wearable Wristbands”, in the 15th ACM Conference on Embedded Networked Sensor Systems (ACM SenSys), 2017. ([PDF](../paper/Virtual Keyboard.pdf))
+<strong> <font color="#738FBF">[SenSys]</font></strong> W. Chen, Y. Lian, __L Wang__, R. Ruby, W. Hu and K. Wu , “Virtual Keyboard for Wearable Wristbands”, in the 15th ACM Conference on Embedded Networked Sensor Systems (ACM SenSys), 2017. [(PDF)](../paper/Virtual Keyboard.pdf)
 
-<strong> <font color="#738FBF">[ICC]</font></strong> S. Zhong, Y. Huang, R. Ruby, __L. Wang__, Y. Xuan and K. Wu, “Wi-Fire: Device-free Fire Detection using WiFi Networks”, in the IEEE International Conference on Communications (IEEE ICC), 2017. 
+<strong> <font color="#738FBF">[ICC]</font></strong> S. Zhong, Y. Huang, R. Ruby, __L. Wang__, Y. Xuan and K. Wu, “Wi-Fire: Device-free Fire Detection using WiFi Networks”, in the IEEE International Conference on Communications (IEEE ICC), 2017. [(PDF)](../paper/Wi-Fire.pdf)
 
-<strong> <font color="#738FBF">[ICC]</font></strong> W. Chen, M. Guan, __L. Wang__, R. Ruby and K. Wu, “FLoc: Device-free Passive Indoor Localization in Complex Environments”, in the IEEE International Conference on Communications (IEEE ICC), 2017.
+<strong> <font color="#738FBF">[ICC]</font></strong> W. Chen, M. Guan, __L. Wang__, R. Ruby and K. Wu, “FLoc: Device-free Passive Indoor Localization in Complex Environments”, in the IEEE International Conference on Communications (IEEE ICC), 2017. [(PDF)](../paper/FLoc.pdf)
 
-<strong> <font color="#738FBF">[GLOBECOM]</font></strong> __L. Wang__, X. Qi, K. Wu and Q. Zhang, “Hash Division Multiple Access”, in the IEEE Global Communications Conference (IEEE GLOBECOM), 2016.
+<strong> <font color="#738FBF">[GLOBECOM]</font></strong> __L. Wang__, X. Qi, K. Wu and Q. Zhang, “Hash Division Multiple Access”, in the IEEE Global Communications Conference (IEEE GLOBECOM), 2016. [(PDF)](../paper/Hash Division.pdf)
 
 <strong> <font color="#738FBF">[ICC]</font></strong> __L. Wang__, X. Qi and K. Wu, “Embracing Adjacent Channel Interference in Next Generation Wi-Fi Networks”, in the IEEE International Conference on Communications (ICC), 2016. 
 
