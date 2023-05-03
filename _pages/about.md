@@ -49,15 +49,15 @@ My research interest mainly focuses on the design and implementation of future h
 <strong> <font color="#738FBF">[SpringerBriefs]</font></strong> **L. Wang**, K. Wu and M. Hamdi. Introduction to Attachment Transmission in Wireless Networks, in SpringerBriefs in Computer Science Series, Springer London Limited, 2014.
 
 ## Conference
-<strong> <font color="#738FBF">[UbiComp]</font></strong> K. Chen, Y. Huang, Y. Chen, H. Zhong, L. Lin, __L. Wang__\*,  K. Wu, LiSee: A Headphone that Provides All-day Assistance for Blind and Low-vision Users to Reach Surrounding Objects. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 6(3), 1-30. 2022 ([PDF](../paper/LiSee A Headphone that Provides All-day Assistance for Blind and Low-vision Users to Reach Surrounding Objects.pdf))
+<strong> <font color="#738FBF">[UbiComp]</font></strong> K. Chen, Y. Huang, Y. Chen, H. Zhong, L. Lin, __L. Wang__\*,  K. Wu, LiSee: A Headphone that Provides All-day Assistance for Blind and Low-vision Users to Reach Surrounding Objects. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 6(3), 1-30. 2022. ([PDF](../paper/LiSeeUbicomp.pdf))
 
-<strong> <font color="#738FBF">[SenSys]</font></strong> Aslan B. Wong , Dongliang Tu , ZiQi Huang , Xia Chen , __L. Wang__* , Kaishun Wu, Muscle-Mind: towards the Strength Training Monitoring via the Neuro-Muscular Connection Sensing, in SenSys '21: Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems, November 2021 Pages 371–372.
+<strong> <font color="#738FBF">[SenSys]</font></strong> Aslan B. Wong , Dongliang Tu , ZiQi Huang , Xia Chen , __L. Wang__* , Kaishun Wu, Muscle-Mind: towards the Strength Training Monitoring via the Neuro-Muscular Connection Sensing, in SenSys '21: Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems, November 2021 Pages 371–372. ([PDF](../paper/Muscle-MindSenSys.pdf))
 
-<strong> <font color="#738FBF">[MobiCom]</font></strong> Y. Huang, Y. Dong, K. Chen, __L. Wang__, Q. Huang, K. Wu, “Lili: Liquid Quality Monitoring with Light Signal”, in The 27th Annual International Conference on Mobile Computing and Networking (MobiCom '21), 2021.
+<strong> <font color="#738FBF">[MobiCom]</font></strong> Y. Huang, Y. Dong, K. Chen, __L. Wang__, Q. Huang, K. Wu, “Lili: Liquid Quality Monitoring with Light Signal”, in The 27th Annual International Conference on Mobile Computing and Networking (MobiCom '21), 2021. ([PDF](../paper/LiliMobiCom.pdf))
 
-<strong> <font color="#738FBF">[MobiCom]</font></strong> Y. Huang, K. Chen, Y. Huang, __L. Wang__ and K. Wu, “Vi-Liquid: Unknown Liquid Identification with Your Smartphone Vibration”, in The 27th Annual International Conference on Mobile Computing and Networking (MobiCom '21), 2021.
+<strong> <font color="#738FBF">[MobiCom]</font></strong> Y. Huang, K. Chen, Y. Huang, __L. Wang__ and K. Wu, “Vi-Liquid: Unknown Liquid Identification with Your Smartphone Vibration”, in The 27th Annual International Conference on Mobile Computing and Networking (MobiCom '21), 2021. ([PDF](../paper/Vi-LiquidMobiCom.pdf))
 
-<strong> <font color="#738FBF">[Interspeech]</font></strong> X. Qi and __L. Wang__*, Parameter-Transfer Learning for Low-Resource Individualization of Head-Related Transfer Functions, in Interspeech, 2019.
+<strong> <font color="#738FBF">[Interspeech]</font></strong> X. Qi and __L. Wang__*, Parameter-Transfer Learning for Low-Resource Individualization of Head-Related Transfer Functions, in Interspeech, 2019. ([PDF](../paper/Parameter-Transfer.pdf))
 
 <strong> <font color="#738FBF">[SECON]</font></strong> Y. Huang, W. Chen, H. Chen, __L. Wang__* and K. Wu, “G-Fall: Device-free and Training-free Fall Detection with Geophones”, in the IEEE International Conference on Sensing, Communication and Networking (SECON), 2019.
 
