@@ -79,37 +79,37 @@ My research interest mainly focuses on the design and implementation of future h
 
 <strong> <font color="#738FBF">[GLOBECOM]</font></strong> __L. Wang__, X. Qi, K. Wu and Q. Zhang, “Hash Division Multiple Access”, in the IEEE Global Communications Conference (IEEE GLOBECOM), 2016. [(PDF)](../paper/Hash Division.pdf)
 
-<strong> <font color="#738FBF">[ICC]</font></strong> __L. Wang__, X. Qi and K. Wu, “Embracing Adjacent Channel Interference in Next Generation Wi-Fi Networks”, in the IEEE International Conference on Communications (ICC), 2016. 
+<strong> <font color="#738FBF">[ICC]</font></strong> __L. Wang__, X. Qi and K. Wu, “Embracing Adjacent Channel Interference in Next Generation Wi-Fi Networks”, in the IEEE International Conference on Communications (ICC), 2016. [(PDF)](../paper/Adjacent Channel.pdf) 
 
-<strong> <font color="#738FBF">[MSN]</font></strong> J. WANG, R. Ruby, __L. Wang__ and K. Wu, “Accurate Combined Keystroke Detection Using Acoustic Signals”, in the 12th International Conference on Mobile Ad-hoc and Sensor Networks (MSN), 2016. (Best Student Paper Award)
+<strong> <font color="#738FBF">[MSN]</font></strong> J. WANG, R. Ruby, __L. Wang__ and K. Wu, “Accurate Combined Keystroke Detection Using Acoustic Signals”, in the 12th International Conference on Mobile Ad-hoc and Sensor Networks (MSN), 2016. [(PDF)](../paper/Acoustic Signals.pdf) (Best Student Paper Award)
 
-<strong> <font color="#738FBF">[INFOCOM]</font></strong> W. Wang, Y. Chen, __L. Wang__, and Q. Zhang, “From Rateless to Sampleless: Wi-Fi Connectivity Make Energy Efficient”, in the 35st IEEE International Conference on Computer Communications (IEEE INFOCOM), 2016.
+<strong> <font color="#738FBF">[INFOCOM]</font></strong> W. Wang, Y. Chen, __L. Wang__, and Q. Zhang, “From Rateless to Sampleless: Wi-Fi Connectivity Make Energy Efficient”, in the 35st IEEE International Conference on Computer Communications (IEEE INFOCOM), 2016. [(PDF)](../paper/From_rateless_to_sampleless_Wi-Fi_connectivity_made_energy_efficient.pdf)
 
-<strong> <font color="#738FBF">[SmartCom]</font></strong> X. Zhang, R. Ruby, J. Long, __L. Wang__, Z. Ming and K. Wu, “WiHumidity: A Novel CSI-Based Humidity Measurement System”, in Smart Computing and Communication (SmartCom) 2017. 
+<strong> <font color="#738FBF">[SmartCom]</font></strong> X. Zhang, R. Ruby, J. Long, __L. Wang__, Z. Ming and K. Wu, “WiHumidity: A Novel CSI-Based Humidity Measurement System”, in Smart Computing and Communication (SmartCom) 2017. [(PDF)](../paper/WiHumidity.pdf)
 
-<strong> <font color="#738FBF">[ICDCS]</font></strong> __L. Wang__, X. Qi, J. Xiao, J. Zhang, M. Hamdi and Q. Zhang, “Piros: Pushing the Limits of Partially Concurrent Transmission in WiFi Networks”, in the IEEE International Conference on Distributed Computing Systems (ICDCS) poster paper, 2015.
+<strong> <font color="#738FBF">[ICDCS]</font></strong> __L. Wang__, X. Qi, J. Xiao, J. Zhang, M. Hamdi and Q. Zhang, “Piros: Pushing the Limits of Partially Concurrent Transmission in WiFi Networks”, in the IEEE International Conference on Distributed Computing Systems (ICDCS) poster paper, 2015. [(PDF)](../paper/Piros_Pushing_the_Limits_of_Partially_Concurrent_Transmission_in_WiFi_Networks.pdf)
 
-<strong> <font color="#738FBF">[ICC]</font></strong> X. Qi, __L. Wang__, K. Wu and J. Tao, “Exploring Smart Pilot for Partial Packet Recovery in Super Dense Wireless Networks”, in IEEE ICC 2015 - Workshop on Advanced PHY and MAC Techniques for Super Dense Wireless Networks, 2015.
+<strong> <font color="#738FBF">[ICC]</font></strong> X. Qi, __L. Wang__, K. Wu and J. Tao, “Exploring Smart Pilot for Partial Packet Recovery in Super Dense Wireless Networks”, in IEEE ICC 2015 - Workshop on Advanced PHY and MAC Techniques for Super Dense Wireless Networks, 2015. [(PDF)](../paper/Exploring_smart_pilot_for_partial_packet_recovery_in_super_dense_wireless_networks.pdf)
 
-<strong> <font color="#738FBF">[ICNP]</font></strong> __L. Wang__, X. Qi, J. Xiao, K. Wu, M. Hamdi and Q. Zhang, “Wireless Rate Adaptation via Smart Pilot”, in the IEEE International Conference on Network Protocols (IEEE ICNP), 2014.
+<strong> <font color="#738FBF">[ICNP]</font></strong> __L. Wang__, X. Qi, J. Xiao, K. Wu, M. Hamdi and Q. Zhang, “Wireless Rate Adaptation via Smart Pilot”, in the IEEE International Conference on Network Protocols (IEEE ICNP), 2014. [(PDF)](../paper/Wireless_Rate_Adaptation_via_Smart_Pilot.pdf)
 
-<strong> <font color="#738FBF">[GLOBECOM]</font></strong> __L. Wang__, J. Xiao, X. Qi, K. Wu, and M. Hamdi, “FC-MAC: Fine-grained Cognitive MAC for Wireless Video Streaming”, in the IEEE Global Communications Conference (IEEE GLOBECOM), 2014. (Best Paper Award Candidate)
+<strong> <font color="#738FBF">[GLOBECOM]</font></strong> __L. Wang__, J. Xiao, X. Qi, K. Wu, and M. Hamdi, “FC-MAC: Fine-grained Cognitive MAC for Wireless Video Streaming”, in the IEEE Global Communications Conference (IEEE GLOBECOM), 2014. [(PDF)](../paper/FC-MAC_Fine-grained_cognitive_MAC_for_wireless_video_streaming.pdf) (Best Paper Award Candidate) 
 
-<strong> <font color="#738FBF">[ICDCS]</font></strong> J. Xiao, Y. Yi, __L. Wang__, Z. Zhou, K. Wu and L. M. Ni, “NomLoc: Calibration-free Indoor Localization With Nomadic Access Points”, in the IEEE 34th International Conference on Distributed Computing Systems (IEEE ICDCS), 2014.
+<strong> <font color="#738FBF">[ICDCS]</font></strong> J. Xiao, Y. Yi, __L. Wang__, Z. Zhou, K. Wu and L. M. Ni, “NomLoc: Calibration-free Indoor Localization With Nomadic Access Points”, in the IEEE 34th International Conference on Distributed Computing Systems (IEEE ICDCS), 2014. [(PDF)](../paper/NomLoc_Calibration-Free_Indoor_Localization_with_Nomadic_Access_Points.pdf)
 
-<strong> <font color="#738FBF">[ICC]</font></strong> __L. Wang__ and M. Hamdi, “Feedback Considered Beneficial: Exploring Frequency Diversity in Full-duplex Rateless Codes”, in the IEEE International Conference on Communications (IEEE ICC), 2013.
+<strong> <font color="#738FBF">[ICC]</font></strong> __L. Wang__ and M. Hamdi, “Feedback Considered Beneficial: Exploring Frequency Diversity in Full-duplex Rateless Codes”, in the IEEE International Conference on Communications (IEEE ICC), 2013. [(PDF)](../paper/Feedback_considered_beneficial_Exploring_frequency_diversity_in_full-duplex_rateless_codes.pdf)
 
-<strong> <font color="#738FBF">[ICDCS]</font></strong> J. Xiao, K. Wu, Y. Yi, __L. Wang__ and L. M. Ni, “Pilot: Passive Device-free Indoor Localization Using Channel State Information”, in the IEEE 33th International Conference on Distributed Computing Systems (IEEE ICDCS), 2013.
+<strong> <font color="#738FBF">[ICDCS]</font></strong> J. Xiao, K. Wu, Y. Yi, __L. Wang__ and L. M. Ni, “Pilot: Passive Device-free Indoor Localization Using Channel State Information”, in the IEEE 33th International Conference on Distributed Computing Systems (IEEE ICDCS), 2013. [(PDF)](../paper/Pilot_Passive_Device-Free_Indoor_Localization_Using_Channel_State_Information.pdf)
 
-<strong> <font color="#738FBF">[GLOBECOM]</font></strong> __L. Wang__, K. Wu, J. Xiao and M. Hamdi, “FCM: Frequency Domain Cooperative Sensing and Multi-channel Contention for CRAHNs”, in the IEEE Global Communications Conference (IEEE GLOBECOM), 2012. (Best Paper Award)
+<strong> <font color="#738FBF">[GLOBECOM]</font></strong> __L. Wang__, K. Wu, J. Xiao and M. Hamdi, “FCM: Frequency Domain Cooperative Sensing and Multi-channel Contention for CRAHNs”, in the IEEE Global Communications Conference (IEEE GLOBECOM), 2012. [(PDF)](../paper/FCM_Frequency_domain_Cooperative_sensing_and_Multi-channel_contention_for_CRAHNs.pdf) (Best Paper Award)
 
-<strong> <font color="#738FBF">[ICC]</font></strong> __L. Wang__, K. Wu, P. Chang and M. Hamdi, “FAST: Realizing what your neighbors are doing”, in the IEEE International Conference on Communications (IEEE ICC), 2012.
+<strong> <font color="#738FBF">[ICC]</font></strong> __L. Wang__, K. Wu, P. Chang and M. Hamdi, “FAST: Realizing what your neighbors are doing”, in the IEEE International Conference on Communications (IEEE ICC), 2012. [(PDF)](../paper/FAST_Realizing_what_your_neighbors_are_doing.pdf)
 
-<strong> <font color="#738FBF">[ICPADS]</font></strong> J. Xiao, K. Wu, Y. Yi, __L. Wang__ and L. M. Ni, “FIMD: Fine-grained Device-free Motion Detection”, in the IEEE 18th International Conference on Parallel and Distributed Systems (IEEE ICPADS), 2012. (Best Paper Award)
+<strong> <font color="#738FBF">[ICPADS]</font></strong> J. Xiao, K. Wu, Y. Yi, __L. Wang__ and L. M. Ni, “FIMD: Fine-grained Device-free Motion Detection”, in the IEEE 18th International Conference on Parallel and Distributed Systems (IEEE ICPADS), 2012. [(PDF)](../paper/FIMD_Fine-grained_Device-free_Motion_Detection.pdf) (Best Paper Award)
 
-<strong> <font color="#738FBF">[INFOCOM]</font></strong> K. Wu, H. Li, __L. Wang__, Y. Yi, Y. Liu, Q. Zhang and L. M. Ni, “ hJam: Attachment Transmission in WLANs”, in the 31st IEEE International Conference on Computer Communications (IEEE INFOCOM), 2012.
+<strong> <font color="#738FBF">[INFOCOM]</font></strong> K. Wu, H. Li, __L. Wang__, Y. Yi, Y. Liu, Q. Zhang and L. M. Ni, “ hJam: Attachment Transmission in WLANs”, in the 31st IEEE International Conference on Computer Communications (IEEE INFOCOM), 2012. [(PDF)](../paper/hJam_Attachment_Transmission_in_WLANs.pdf)
 
-<strong> <font color="#738FBF">[ICPADS]</font></strong> __L. Wang__, K. Wu, M. Hamdi and L. M. Ni, “Attachment Learning for Multi-Channel Allocation in Cellular OFDMA Networks”, in the IEEE 17th International Conference on Parallel and Distributed Systems (IEEE ICPADS), 2011.
+<strong> <font color="#738FBF">[ICPADS]</font></strong> __L. Wang__, K. Wu, M. Hamdi and L. M. Ni, “Attachment Learning for Multi-Channel Allocation in Cellular OFDMA Networks”, in the IEEE 17th International Conference on Parallel and Distributed Systems (IEEE ICPADS), 2011. [(PDF)](../paper/Attachment_Learning_for_Multi-channel_Allocation_in_Distributed_OFDMA_Networks.pdf)
 
 ## Journal
 <strong> <font color="#3286AE">[TWC]</font></strong> Du, Xiao, Ting Wang, Qiang Feng, Chenhui Ye, Tao Tao, __L. Wang__, Yuanming Shi, and Mingsong Chen. "Multi-agent Reinforcement Learning for Dynamic Resource Management in 6G in-X Subnetworks." In IEEE Transactions on Wireless Communications ,Volume: 22, Issue: 3，pp:1900-1914, MARCH 2023. 
