@@ -154,7 +154,7 @@ My research interest mainly focuses on the design and implementation of future h
 
 <strong> <font color="#3286AE">[ACS Appl. Mater. Interfaces]</font></strong> Zhang, Y.; Jiang, M.; Han, T.; Xiao, X.; Chen, W.; __Wang, L.__; Wong, K. S.; Wang, R.; Wang, K.; Tang, B. Z.; Wu, K., Aggregation-Induced Emission Luminogens as Color Converters for Visible-Light Communication. ACS Appl. Mater. Interfaces Sep. 2018, 10 (40), 34418-34426 [(PDF)](../paper/Aggregation-Induced Emission Luminogens as Color Converters for Visible-Light Communication.pdf)
 
-<strong> <font color="#3286AE">[TON]</font></strong> Wang, Wei; Chen, Yingjie; __Wang, Lu__; Zhang, Qian*, “Sampleless Wi-Fi: Bringing Low Power to Wi-Fi Communications”, in the IEEE/ACM Transactions on Networking, vol. 25, No.3, pp. 1663 - 1672, January 2017 [(PDF)](../paper/Sampleless Wi-Fi: Bringing Low Power to Wi-Fi Communications.pdf)
+<strong> <font color="#3286AE">[TON]</font></strong> Wang, Wei; Chen, Yingjie; __Wang, Lu__; Zhang, Qian*, “Sampleless Wi-Fi: Bringing Low Power to Wi-Fi Communications”, in the IEEE/ACM Transactions on Networking, vol. 25, No.3, pp. 1663 - 1672, January 2017 [(PDF)](../paper/Sampleless Wi-Fi- Bringing Low Power to Wi-Fi Communications.pdf)
 
 <strong> <font color="#3286AE">[TWC]</font></strong> __L. Wang__, X. Qi, J. Xiao, K. Wu, M. Hamdi and Q. Zhang*, “Exploring Smart Pilot for Wireless Rate Adaptation”, in IEEE Transactions on Wireless Communications, Vol. 15, No.7, pp. 4571-4582, July 2016 (IF:4.951) [(PDF)](../paper/Exploring Smart Pilot for Wireless Rate Adaptation.pdf)
 
