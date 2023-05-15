@@ -24,17 +24,25 @@ She has been recognized as Guangdong Special Support for Young Talent ("广东�
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-<strong> <font color="#8273AD">[Paper]</font></strong> 2023, our paper "Beverage Deterioration Monitoring Based on Surface Tension Dynamics and Absorption Spectrum Analysis" is accepted in IEEE Transactions on Mobile Computing (TMC)
+<strong> <font color="#8273AD">[Paper]</font></strong> 2023/05, our paper "Beverage Deterioration Monitoring Based on Surface Tension Dynamics and Absorption Spectrum Analysis" is accepted in IEEE Transactions on Mobile Computing (TMC)
 
-<strong> <font color="#8273AD">[Paper]</font></strong> 2022, our paper "LiSee: A Headphone that Provides All-day Assistance for Blind and Low-vision Users to Reach Surrounding Objects" has been published in ACM international joint conference on Pervasive and Ubiquitous Computing.
+<strong> <font color="#8273AD">[Award]</font></strong> 2022/08, I have received the "Rising Star Award" from ACM SIGAPP China Chapter for my previous achievements in the areas of wireless communications.
 
-<strong> <font color="#8273AD">[Paper]</font></strong> 2021/07, our paper "Lili: Liquid Quality Monitoring with Light Signal" has been accepted by The 27th Annual International Conference on Mobile Computing and Networking (MobiCom '21), 2021.
+<strong> <font color="#8273AD">[Award]</font></strong> 2022/07,  Our patent wins 23rd China Patent Excellence Award.
+
+<strong> <font color="#8273AD">[Paper]</font></strong> 2022/05, our paper "LiSee: A Headphone that Provides All-day Assistance for Blind and Low-vision Users to Reach Surrounding Objects" has been published in ACM international joint conference on Pervasive and Ubiquitous Computing.
+
+<strong> <font color="#8273AD">[Award]</font></strong> 2021/08,  Our patent wins 8rd Guangdong Patent Excellence Award.
+
+<strong> <font color="#8273AD">[Paper]</font></strong> 2021/06, our paper "Lili: Liquid Quality Monitoring with Light Signal" has been accepted by The 27th Annual International Conference on Mobile Computing and Networking (MobiCom '21), 2021.
 
 <strong> <font color="#8273AD">[Paper]</font></strong> 2021/06, our paper “Power Saving and Secure Text Input for Commodity Smart Watches” has been published in IEEE Transactions on Mobile Computing.
 
+<strong> <font color="#8273AD">[Paper]</font></strong> 2020/11, our paper "Vi-Liquid: Unknown Liquid Identification with Your Smartphone Vibration" has been accepted by The 27th Annual International Conference on Mobile Computing and Networking (MobiCom '21), 2021.
+
 <strong> <font color="#8273AD">[Paper]</font></strong> 2021/05, 我们的论文“面向云网融合的细粒度多接入边缘计算架构” 被《计算机研究与发展》接收
 
-<strong> <font color="#8273AD">[Paper]</font></strong> 2021/03, I am serving as the Technical Program Committee Chair of EAI ICECI 2021. Please consider submitting your papers!
+<strong> <font color="#8273AD">[Service]</font></strong> 2021/03, I am serving as the Technical Program Committee Chair of EAI ICECI 2021. Please consider submitting your papers!
 
 # RESEARCH
 * Next-generation Wireless Networks
@@ -188,7 +196,7 @@ My research interest mainly focuses on the design and implementation of future h
 > 
 > Reference: 《Mathematics and Its ApplicationKenneth》(H. Reson  ，McGraw-Hill)
 
-## Competitions and projects
+## Competitions and Projects
 - 指导本科生陈鸿杰、刘婉玲、黄彦道获得中国大学生计算机设计大赛二等奖，2019.07
 - 指导本科生杨锐雄、黄鹤羽获得中国大学生计算机设计大赛三等奖，2019.07
 - 指导本科生孙乾、张嘉睿、陈林、邱铭辉获得中国大学生服务外包创新创业大赛二等奖，2019.06
@@ -233,12 +241,22 @@ My research interest mainly focuses on the design and implementation of future h
 - IEEE ICPADS Best Paper Award, 2012.12
 
 # SERVICE
+## Membership
+- Senior Member of The Institute of Electrical and Electronics Engineers (IEEE)
+- Member of The Association for Computing Machinery (ACM)
+- Member of China Computer Federation (CCF)
+- Executive member of Ubiquitous Computing Technical Committee of CCF                    (CCF普适计算专委会执行委员)
+
+## Editorial Board
+- 05/2023-, Asscoiate Editor, IEEE Transactions on Mobile Computing (TMC)
+- 03/2018-, Lead Editor, Special issue of Wireless Communications and Mobile Computing
+- 01/2018-, Associate Editor, ICSES Interdisciplinary Transactions on Cloud Computing, IoT, and Big Data
+- 10/2017-, Guest Editor, Special issue of IEEE IoT Journal
+- 01/2017-, Guest Editor,  Special issue of Peer-to-Peer Networking and Applications journal
+
+## Chairing
 - TPC Chair, EAI ICECI, 2021
-- workshop chair, IEEE ICPADS 2017
-- Lead Editor, Wireless Communications and Mobile Computing
-- Associate Editor, ICSES Interdisciplinary Transactions on Cloud Computing, IoT, and Big Data
-- Guest Editor, IEEE IoT Journal
-- Guest Editor, Peer-to-Peer Networking and Applications journal
+- Workshop chair, IEEE ICPADS 2017
 
 
 <!-- # Educations
