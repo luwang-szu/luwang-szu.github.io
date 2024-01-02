@@ -124,7 +124,7 @@ My research interest mainly focuses on the design and implementation of future h
 <strong> <font color="#738FBF">[ICPADS]</font></strong> __L. Wang__, K. Wu, M. Hamdi and L. M. Ni, “Attachment Learning for Multi-Channel Allocation in Cellular OFDMA Networks”, in the IEEE 17th International Conference on Parallel and Distributed Systems (IEEE ICPADS), 2011. [(PDF)](../paper/Attachment_Learning_for_Multi-channel_Allocation_in_Distributed_OFDMA_Networks.pdf)
 
 ## Journal
-<strong> <font color="#3286AE">[TMC]</font></strong> Yongzhi Huang, Kaixin Chen, Jiayi Zhao, **Lu Wang\***, Kaishun. Wu, “Beverage Deterioration Monitoring Based on Surface Tension Dynamics and Absorption Spectrum Analysis“, accepted to appear in IEEE Transactions on Mobile Computing (TMC), 2023 [(PDF)](../paper/Beverage_Deterioration_Monitoring_Based_on_Surface_Tension_Dynamics_and_Absorption_Spectrum_Analysis.pdf)
+<strong> <font color="#3286AE">[TMC]</font></strong> Yongzhi Huang, Kaixin Chen, Jiayi Zhao, **Lu Wang\***, Kaishun. Wu, "Beverage Deterioration Monitoring Based on Surface Tension Dynamics and Absorption Spectrum Analysis", accepted to appear in IEEE Transactions on Mobile Computing (TMC), 2023 [(PDF)](../paper/Beverage_Deterioration_Monitoring_Based_on_Surface_Tension_Dynamics_and_Absorption_Spectrum_Analysis.pdf)
 
 <strong> <font color="#3286AE">[TWC]</font></strong> Du, Xiao, Ting Wang, Qiang Feng, Chenhui Ye, Tao Tao, __L. Wang__, Yuanming Shi, and Mingsong Chen. "Multi-agent Reinforcement Learning for Dynamic Resource Management in 6G in-X Subnetworks." In IEEE Transactions on Wireless Communications ,Volume: 22, Issue: 3，pp:1900-1914, MARCH 2023. [(PDF)](../paper/Multi-Agent_Reinforcement_Learning_for_Dynamic_Resource_Management_in_6G_in-X_Subnetworks.pdf)
 
