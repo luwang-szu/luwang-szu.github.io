@@ -24,6 +24,8 @@ She has been recognized as Guangdong Special Support for Young Talent ("广东�
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+<strong> <font color="#8273AD">[Paper]</font></strong> 2023/06, our paper "LiT: Toothbrushing monitoring using blue light from toothbrush" is accepted by The 29th Annual International Conference on Mobile Computing and Networking (MobiCom '23), 2023.
+
 <strong> <font color="#8273AD">[Paper]</font></strong> 2023/05, our paper "Beverage Deterioration Monitoring Based on Surface Tension Dynamics and Absorption Spectrum Analysis" is accepted in IEEE Transactions on Mobile Computing (TMC)
 
 <strong> <font color="#8273AD">[Award]</font></strong> 2022/08, I have received the "Rising Star Award" from ACM SIGAPP China Chapter for my previous achievements in the areas of wireless communications.
