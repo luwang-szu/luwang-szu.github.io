@@ -24,6 +24,10 @@ She has been recognized as Guangdong Special Support for Young Talent ("广东�
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+<strong> <font color="#8273AD">[Paper]</font></strong> 2024/12, our paper "ContractMind: Trust-calibration Interaction Design for AI Contract Review Tools" has been accepted for publication in the International Journal of Human - Computer Studies (IJHCS’24), 2024.
+
+<strong> <font color="#8273AD">[Paper]</font></strong> 2024/10, our paper "Optical Sensing-Based Intelligent Toothbrushing Monitoring System" has been accepted to appear in IEEE Transactions on Mobile Computing (TMC), 2024.
+
 <strong> <font color="#8273AD">[Paper]</font></strong> 2023/06, our paper "LiT: Toothbrushing monitoring using blue light from toothbrush" is accepted by The 29th Annual International Conference on Mobile Computing and Networking (MobiCom '23), 2023.
 
 <strong> <font color="#8273AD">[Paper]</font></strong> 2023/05, our paper "Beverage Deterioration Monitoring Based on Surface Tension Dynamics and Absorption Spectrum Analysis" is accepted in IEEE Transactions on Mobile Computing (TMC)
@@ -131,6 +135,14 @@ My research interest mainly focuses on the design and implementation of future h
 <strong> <font color="#738FBF">[ICPADS]</font></strong> __L. Wang__, K. Wu, M. Hamdi and L. M. Ni, “Attachment Learning for Multi-Channel Allocation in Cellular OFDMA Networks”, in the IEEE 17th International Conference on Parallel and Distributed Systems (IEEE ICPADS), 2011. [(PDF)](../paper/Attachment_Learning_for_Multi-channel_Allocation_in_Distributed_OFDMA_Networks.pdf)
 
 ## Journal
+<strong> <font color="#3286AE">[IJHCS]</font></strong> Jian Zeng, Kaixin Chen, Ruiqi Wang, Yilong Li, MingMing Fan, Kaishun Wu, Xiaoke Qi and Lu Wang*, Contract-Mind, ContractMind: Trust-calibration Interaction Design for AI Contract Review Tools, accepted for publication in the International Journal of Human - Computer Studies (IJHCS’24), 2024. [(PDF)](../paper/ContractMind_IJHCS.pdf)
+
+<strong> <font color="#3286AE">[TMC]</font></strong> Kaixin Chen, Lei Wang, Yongzhi Huang, Kaishun Wu, and Lu Wang*, Optical Sensing-Based Intelligent Toothbrushing Monitoring System, accepted to appear in IEEE Transactions on Mobile Computing (TMC), 2024. [(PDF)](../paper/OpticalSensing_TMC.pdf)
+
+<strong> <font color="#3286AE">[TOSN]</font></strong> Hao Wang, Haoran Zhang, Lu Wang, Shichang Xuan, Qian Zhang, Fedeval: Defending Against Lazybone Attack via Multi-dimension Evaluation in Federated Learning, accepted to appear in IEEE Transactions on Sensor Networks (TOSN), 2024. [(PDF)](../paper/FedEval_TOSN.pdf)
+
+<strong> <font color="#3286AE">[CN]</font></strong> Arif Raza, Salabat Khan, Shivanshu Shrivastava, M. Wasim Abbas Ashraf, Ting Wang, Kaishun Wu, Lu Wang*, A lightweight group-based SDN-driven encryption protocol for smart home IoT devices, in Elsevier Computer Networks, Volume 250, August 2024. [(PDF)](../paper/SDN_CN.pdf)
+
 <strong> <font color="#3286AE">[TMC]</font></strong> Yongzhi Huang, Kaixin Chen, Jiayi Zhao, **Lu Wang\***, Kaishun. Wu, "Beverage Deterioration Monitoring Based on Surface Tension Dynamics and Absorption Spectrum Analysis", accepted to appear in IEEE Transactions on Mobile Computing (TMC), 2023. [(PDF)](../paper/Beverage_Deterioration_Monitoring_Based_on_Surface_Tension_Dynamics_and_Absorption_Spectrum_Analysis.pdf)
 
 <strong> <font color="#3286AE">[TWC]</font></strong> Du, Xiao, Ting Wang, Qiang Feng, Chenhui Ye, Tao Tao, __L. Wang__, Yuanming Shi, and Mingsong Chen. "Multi-agent Reinforcement Learning for Dynamic Resource Management in 6G in-X Subnetworks." In IEEE Transactions on Wireless Communications ,Volume: 22, Issue: 3，pp:1900-1914, MARCH 2023. [(PDF)](../paper/Multi-Agent_Reinforcement_Learning_for_Dynamic_Resource_Management_in_6G_in-X_Subnetworks.pdf)
@@ -263,6 +275,7 @@ My research interest mainly focuses on the design and implementation of future h
 - 指导本科生纪静敏、蔡少填立项2018年国家级大学生创新创业训练计划项目，2018.05
 
 # AWARD
+- Guangdong Artificial Intelligence Industry Association Science and Technology Award, First Class, 2024.10
 - China Patent Awards (中国专利奖), Excellence Award, 2022.07
 - Guangdong Patent Awards (广东省专利奖), Excellence Award, 2021.08
 - ACM SIGAPP China Rising Star, 2020.08
