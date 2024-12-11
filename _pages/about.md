@@ -59,6 +59,13 @@ My research interest mainly focuses on the design and implementation of future h
 <strong> <font color="#738FBF">[SpringerBriefs]</font></strong> **L. Wang**, K. Wu and M. Hamdi. Introduction to Attachment Transmission in Wireless Networks, in SpringerBriefs in Computer Science Series, Springer London Limited, 2014.
 
 ## Conference
+
+<strong> <font color="#738FBF">[UIC’24]</font></strong> Arif Raza, Junfan Xiang, Salabat Khan, Shivanshu Shrivastava, Muhammad Wasim Abbas Ashraf, and Lu Wang*, Collaborative Multi-Agent Proximal Policy Based Resource Allocation in Clustered IoV Networks, in The 21st International Conference on Ubiquitous Intelligence and Computing (UIC’24) Special Session on Collaborative Edge Intelligence and Its Emerging Application (Edge AI), 2024. [(PDF)](../paper/CMP_UIC.pdf)
+
+<strong> <font color="#738FBF">[ICPADS’24]</font></strong> Jiayi Zhao, Yongzhi Huang, Qipeng Xie, Weizheng Wang, Lu Wang*, Kaishun Wu, Chameleon: An Adaptive System for Overlapping Keystroke Signal Separation and Identification, in the IEEE International Conference on Parallel and Distributed Systems (ICPADS’24), 2024. [(PDF)](../paper/Chameleon_ICPADS.pdf)
+
+<strong> <font color="#738FBF">[ISMIR’24]</font></strong> Ziya Zhou, Yuhang Wu, Zhiyue Wu, Xinyue Zhang, Ruibin Yuan, Yinghao MA, Lu Wang, Emmanouil Benetos, Wei Xue, Yike Guo, Can LLMs "Reason" in Music? An Evaluation of LLMs' Capability of Music Understanding and Generation, in ISMIR 2024. [(PDF)](../paper/MusicEvaluation_ISMIR.pdf)
+
 <strong> <font color="#738FBF">[MobiCom]</font></strong> Kaixin Chen, Lei Wang, Yongzhi Huang, **Lu Wang\***, and Kaishun Wu, LiT: Toothbrushing monitoring using blue light from toothbrush, accepted to appear in The 29th Annual International Conference on Mobile Computing and Networking (MobiCom '23), 2023. [(PDF)](../paper/LiT_Mobicom.pdf)
 
 <strong> <font color="#738FBF">[UbiComp]</font></strong> K. Chen, Y. Huang, Y. Chen, H. Zhong, L. Lin, __L. Wang__\*,  K. Wu, LiSee: A Headphone that Provides All-day Assistance for Blind and Low-vision Users to Reach Surrounding Objects. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 6(3), 1-30. 2022. [(PDF)](../paper/LiSeeUbicomp.pdf)
