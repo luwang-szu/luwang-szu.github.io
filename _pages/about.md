@@ -24,7 +24,7 @@ She has been recognized as Guangdong Special Support for Young Talent ("广东�
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-<strong> <font color="#8273AD">[Paper]</font></strong> 2024/12, our paper "PIT: A Novel Toothbrush Providing Real-Time and Robust Plaque Indication During Brushing" has been accepted for publication in the 23rd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys’25), 2025.
+<strong> <font color="#8273AD">[Paper]</font></strong> 2025/3, our paper "PIT: A Novel Toothbrush Providing Real-Time and Robust Plaque Indication During Brushing" has been accepted for publication in the 23rd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys’25), 2025.
 
 <strong> <font color="#8273AD">[Paper]</font></strong> 2024/12, our paper "ContractMind: Trust-calibration Interaction Design for AI Contract Review Tools" has been accepted for publication in the International Journal of Human - Computer Studies (IJHCS’24), 2024.
 
