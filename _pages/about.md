@@ -24,6 +24,8 @@ She has been recognized as Guangdong Special Support for Young Talent ("广东�
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+<strong> <font color="#8273AD">[Paper]</font></strong> 2024/12, our paper "PIT: A Novel Toothbrush Providing Real-Time and Robust Plaque Indication During Brushing" has been accepted for publication in the 23rd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys’25), 2025.
+
 <strong> <font color="#8273AD">[Paper]</font></strong> 2024/12, our paper "ContractMind: Trust-calibration Interaction Design for AI Contract Review Tools" has been accepted for publication in the International Journal of Human - Computer Studies (IJHCS’24), 2024.
 
 <strong> <font color="#8273AD">[Paper]</font></strong> 2024/10, our paper "Optical Sensing-Based Intelligent Toothbrushing Monitoring System" has been accepted to appear in IEEE Transactions on Mobile Computing (TMC), 2024.
@@ -63,6 +65,7 @@ My research interest mainly focuses on the design and implementation of future h
 <strong> <font color="#738FBF">[SpringerBriefs]</font></strong> **L. Wang**, K. Wu and M. Hamdi. Introduction to Attachment Transmission in Wireless Networks, in SpringerBriefs in Computer Science Series, Springer London Limited, 2014.
 
 ## Conference
+<strong> <font color="#738FBF">[MobiSys’25]</font></strong> Kaixin Chen, Junfan Xiang, Wanying Tan, Keyu Chen, Kaishun Wu and Lu Wang*, PIT: A Novel Toothbrush Providing Real-Time and Robust Plaque Indication During Brushing, in the 23rd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys’25), 2025.
 
 <strong> <font color="#738FBF">[UIC’24]</font></strong> Arif Raza, Junfan Xiang, Salabat Khan, Shivanshu Shrivastava, Muhammad Wasim Abbas Ashraf, and Lu Wang*, Collaborative Multi-Agent Proximal Policy Based Resource Allocation in Clustered IoV Networks, in The 21st International Conference on Ubiquitous Intelligence and Computing (UIC’24) Special Session on Collaborative Edge Intelligence and Its Emerging Application (Edge AI), 2024. [(PDF)](../paper/CMP_UIC.pdf)
 
